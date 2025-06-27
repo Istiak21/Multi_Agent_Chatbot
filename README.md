@@ -1,12 +1,9 @@
 # 🤖 Multi-Agent Chatbot
 
-A conversational AI assistant built with **multiple intelligent agents** using [AutoGen](https://github.com/microsoft/autogen), [Streamlit](https://streamlit.io), and [Together AI](https://www.together.ai)'s API for Meta's `# 🧠 Multi-Agent Chatbot – Streamlit + AutoGen + Together AI
-
 A conversational AI assistant built with **multiple intelligent agents** using [AutoGen](https://github.com/microsoft/autogen), [Streamlit](https://streamlit.io), and [Together AI](https://www.together.ai)'s api for Meta's 'Llama-3.3-70B-Instruct-Turbo-Free' model.
 
 <br>
 
-> 🔐 Built-in privacy: Your API key stays local. No key is ever exposed in code or commits.
 
 ---
 
